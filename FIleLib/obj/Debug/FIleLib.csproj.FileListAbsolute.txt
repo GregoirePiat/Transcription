@@ -1,0 +1,4 @@
+C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\FIleLib\bin\Debug\FIleLib.dll
+C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\FIleLib\bin\Debug\FIleLib.pdb
+C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\FIleLib\obj\Debug\FIleLib.dll
+C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\FIleLib\obj\Debug\FIleLib.pdb

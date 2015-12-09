@@ -1,0 +1,7 @@
+C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\Transposition\bin\Debug\Transposition.dll
+C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\Transposition\bin\Debug\Transposition.pdb
+C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\Transposition\bin\Debug\FIleLib.dll
+C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\Transposition\bin\Debug\FIleLib.pdb
+C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\Transposition\obj\Debug\Transposition.dll
+C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\Transposition\obj\Debug\Transposition.pdb
+C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\Transposition\obj\Debug\Transposition.csprojResolveAssemblyReference.cache
