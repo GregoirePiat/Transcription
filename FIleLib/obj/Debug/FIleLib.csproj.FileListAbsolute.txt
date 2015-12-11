@@ -2,3 +2,8 @@ C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\FIl
 C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\FIleLib\bin\Debug\FIleLib.pdb
 C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\FIleLib\obj\Debug\FIleLib.dll
 C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\FIleLib\obj\Debug\FIleLib.pdb
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\FIleLib\bin\Debug\FIleLib.dll
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\FIleLib\bin\Debug\FIleLib.pdb
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\FIleLib\obj\Debug\FIleLib.csprojResolveAssemblyReference.cache
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\FIleLib\obj\Debug\FIleLib.dll
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\FIleLib\obj\Debug\FIleLib.pdb

@@ -12,3 +12,17 @@ C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\Gor
 C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\GoryPiatTranscription\obj\Debug\GoryPiatTranscription.pdb
 C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\GoryPiatTranscription\bin\Debug\Transposition.dll
 C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\GoryPiatTranscription\bin\Debug\Transposition.pdb
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\GoryPiatTranscription\bin\Debug\GoryPiatTranscription.exe.config
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\GoryPiatTranscription\obj\Debug\GoryPiatTranscription.exe
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\GoryPiatTranscription\obj\Debug\GoryPiatTranscription.pdb
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\GoryPiatTranscription\bin\Debug\GoryPiatTranscription.exe
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\GoryPiatTranscription\bin\Debug\GoryPiatTranscription.pdb
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\GoryPiatTranscription\bin\Debug\FIleLib.dll
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\GoryPiatTranscription\bin\Debug\Transposition.dll
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\GoryPiatTranscription\bin\Debug\FIleLib.pdb
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\GoryPiatTranscription\bin\Debug\Transposition.pdb
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\GoryPiatTranscription\obj\Debug\GoryPiatTranscription.csprojResolveAssemblyReference.cache
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\GoryPiatTranscription\obj\Debug\GoryPiatTranscription.Fshow.resources
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\GoryPiatTranscription\obj\Debug\GoryPiatTranscription.Ftranscription.resources
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\GoryPiatTranscription\obj\Debug\GoryPiatTranscription.Properties.Resources.resources
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\GoryPiatTranscription\obj\Debug\GoryPiatTranscription.csproj.GenerateResource.Cache

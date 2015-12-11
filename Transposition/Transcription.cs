@@ -53,31 +53,42 @@ namespace Transposition
             int[] orderSequence = new int[0];
             int sizeKey = myKey.Length;
             int sizeClearText = clearText.Length;
-
+            String oldText = "";
+            
             for (int i = 0; i < myKey.Length; ++i)
             {
                 myTab.Add((int)myTranspo[i], "");
             }
 
-               for (int i = 0; i < myKey.Length; ++i)
+            for (int i = 0; i < myKey.Length; ++i)
+            {
+                for (int j = i; j < clearText.Length; j+=sizeKey)
                 {
-                    for (int j = i; j < clearText.Length; ++sizeKey)
-                    {
-                        myTab.Add(myTranspo[i],myTab[myTranspo[i]] + clearText[j]+"");
-                    }
+                    oldText = myTab[myTranspo[i]];
+                    myTab[myTranspo[i]] = oldText + clearText[j]+"";
                 }
+            }
                 
                 return myTab;
         }
 
+        public static String computeCyphertext(Dictionary<int, String> myTab, String myKey)
+        {
+            int sizeOfKey = myKey.Length;
+            String cypherText = "";
+            for(int i = 0; i < sizeOfKey; ++i)
+            {
+                cypherText += myTab[i];
+            }
+
+            return cypherText;
+        }
+
         public static String encrypt(String clearText, String myKey){
             String cypherText = "";
-            Dictionary<int, int> myTranspoSequence = computeTranspoSequence(myKey);
+            Dictionary<int, String> charTab = computeTab(clearText, myKey);
+            cypherText = computeCyphertext(charTab, myKey);
             return cypherText;
     }
-
-
-
-
     }
 }

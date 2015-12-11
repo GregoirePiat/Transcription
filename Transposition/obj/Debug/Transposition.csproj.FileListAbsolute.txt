@@ -5,3 +5,10 @@ C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\Tra
 C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\Transposition\obj\Debug\Transposition.dll
 C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\Transposition\obj\Debug\Transposition.pdb
 C:\Users\Grégoire\Source\Repos\GoryPiatTranscription2\GoryPiatTranscription\Transposition\obj\Debug\Transposition.csprojResolveAssemblyReference.cache
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\Transposition\bin\Debug\Transposition.dll
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\Transposition\bin\Debug\Transposition.pdb
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\Transposition\bin\Debug\FIleLib.dll
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\Transposition\bin\Debug\FIleLib.pdb
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\Transposition\obj\Debug\Transposition.csprojResolveAssemblyReference.cache
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\Transposition\obj\Debug\Transposition.dll
+C:\Users\Gregoire\Downloads\Transcription-master\Transcription-master\Transposition\obj\Debug\Transposition.pdb
